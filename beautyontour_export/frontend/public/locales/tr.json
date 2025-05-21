@@ -1,0 +1,35 @@
+{
+  "common": {
+    "nav": {
+      "home": "Ana Sayfa",
+      "services": "Hizmetler",
+      "health_tourism": "Sağlık Turizmi",
+      "luxury_travel": "Lüks Seyahat",
+      "beauty_services": "Güzellik Hizmetleri",
+      "shop": "Mağaza",
+      "booking": "Rezervasyon",
+      "contact": "İletişim"
+    },
+    "footer": {
+      "about_text": "Beautyontour, Türkiye'de özel seyahat ve yüksek kaliteli sağlık tedavileri için partnerinizdir. Kişisel destek ile özel deneyimler sunuyoruz.",
+      "quick_links": "Hızlı Bağlantılar",
+      "services": "Hizmetler",
+      "contact_us": "Bize Ulaşın",
+      "address": "İstanbul, Türkiye",
+      "phone": "+90 123 456 7890",
+      "email": "info@beautyontour.com",
+      "newsletter_placeholder": "E-posta adresiniz",
+      "copyright": "Tüm hakları saklıdır."
+    },
+    "buttons": {
+      "read_more": "Daha Fazla",
+      "book_now": "Şimdi Rezervasyon Yap",
+      "contact_us": "İletişime Geç",
+      "add_to_cart": "Sepete Ekle",
+      "checkout": "Ödeme",
+      "submit": "Gönder",
+      "login": "Giriş",
+      "register": "Kayıt Ol"
+    }
+  }
+}

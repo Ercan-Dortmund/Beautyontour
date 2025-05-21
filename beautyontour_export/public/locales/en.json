@@ -1,0 +1,40 @@
+{
+  "common": {
+    "nav": {
+      "home": "Home",
+      "shop": "Shop",
+      "booking": "Booking",
+      "health": "Health",
+      "contact": "Contact"
+    },
+    "buttons": {
+      "read_more": "Read more",
+      "book_now": "Book now",
+      "contact_us": "Contact us",
+      "add_to_cart": "Add to cart",
+      "submit": "Submit",
+      "login": "Login",
+      "subscribe": "Subscribe"
+    },
+    "footer": {
+      "company": "Company",
+      "about_us": "About us",
+      "team": "Team",
+      "careers": "Careers",
+      "contact": "Contact",
+      "services": "Services",
+      "shop": "Shop",
+      "booking": "Booking",
+      "health": "Health",
+      "legal": "Legal",
+      "terms": "Terms & Conditions",
+      "privacy": "Privacy Policy",
+      "imprint": "Imprint",
+      "follow_us": "Follow us",
+      "newsletter": "Newsletter",
+      "email_placeholder": "Your email address",
+      "all_rights_reserved": "All rights reserved",
+      "admin": "Admin"
+    }
+  }
+}

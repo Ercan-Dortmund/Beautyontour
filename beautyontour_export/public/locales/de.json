@@ -1,0 +1,40 @@
+{
+  "common": {
+    "nav": {
+      "home": "Startseite",
+      "shop": "Shop",
+      "booking": "Buchung",
+      "health": "Gesundheit",
+      "contact": "Kontakt"
+    },
+    "buttons": {
+      "read_more": "Mehr erfahren",
+      "book_now": "Jetzt buchen",
+      "contact_us": "Kontakt aufnehmen",
+      "add_to_cart": "In den Warenkorb",
+      "submit": "Absenden",
+      "login": "Anmelden",
+      "subscribe": "Abonnieren"
+    },
+    "footer": {
+      "company": "Unternehmen",
+      "about_us": "Über uns",
+      "team": "Team",
+      "careers": "Karriere",
+      "contact": "Kontakt",
+      "services": "Dienstleistungen",
+      "shop": "Shop",
+      "booking": "Buchung",
+      "health": "Gesundheit",
+      "legal": "Rechtliches",
+      "terms": "AGB",
+      "privacy": "Datenschutz",
+      "imprint": "Impressum",
+      "follow_us": "Folgen Sie uns",
+      "newsletter": "Newsletter",
+      "email_placeholder": "Ihre E-Mail-Adresse",
+      "all_rights_reserved": "Alle Rechte vorbehalten",
+      "admin": "Admin"
+    }
+  }
+}

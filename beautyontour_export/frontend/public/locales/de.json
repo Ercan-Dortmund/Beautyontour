@@ -1,0 +1,35 @@
+{
+  "common": {
+    "nav": {
+      "home": "Startseite",
+      "services": "Dienstleistungen",
+      "health_tourism": "Gesundheitstourismus",
+      "luxury_travel": "Luxusreisen",
+      "beauty_services": "Beauty-Dienstleistungen",
+      "shop": "Shop",
+      "booking": "Buchung",
+      "contact": "Kontakt"
+    },
+    "footer": {
+      "about_text": "Beautyontour ist Ihr Partner für exklusive Reisen und hochwertige Gesundheitsbehandlungen in der Türkei. Wir bieten maßgeschneiderte Erlebnisse mit persönlicher Betreuung.",
+      "quick_links": "Schnelllinks",
+      "services": "Dienstleistungen",
+      "contact_us": "Kontaktieren Sie uns",
+      "address": "Istanbul, Türkei",
+      "phone": "+90 123 456 7890",
+      "email": "info@beautyontour.com",
+      "newsletter_placeholder": "Ihre E-Mail-Adresse",
+      "copyright": "Alle Rechte vorbehalten."
+    },
+    "buttons": {
+      "read_more": "Mehr erfahren",
+      "book_now": "Jetzt buchen",
+      "contact_us": "Kontakt aufnehmen",
+      "add_to_cart": "In den Warenkorb",
+      "checkout": "Zur Kasse",
+      "submit": "Absenden",
+      "login": "Anmelden",
+      "register": "Registrieren"
+    }
+  }
+}

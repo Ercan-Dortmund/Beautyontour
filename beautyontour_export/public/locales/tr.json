@@ -1,0 +1,40 @@
+{
+  "common": {
+    "nav": {
+      "home": "Ana Sayfa",
+      "shop": "Mağaza",
+      "booking": "Rezervasyon",
+      "health": "Sağlık",
+      "contact": "İletişim"
+    },
+    "buttons": {
+      "read_more": "Daha fazla",
+      "book_now": "Şimdi rezervasyon yap",
+      "contact_us": "Bize ulaşın",
+      "add_to_cart": "Sepete ekle",
+      "submit": "Gönder",
+      "login": "Giriş yap",
+      "subscribe": "Abone ol"
+    },
+    "footer": {
+      "company": "Şirket",
+      "about_us": "Hakkımızda",
+      "team": "Ekibimiz",
+      "careers": "Kariyer",
+      "contact": "İletişim",
+      "services": "Hizmetler",
+      "shop": "Mağaza",
+      "booking": "Rezervasyon",
+      "health": "Sağlık",
+      "legal": "Yasal",
+      "terms": "Kullanım Şartları",
+      "privacy": "Gizlilik Politikası",
+      "imprint": "Künye",
+      "follow_us": "Bizi takip edin",
+      "newsletter": "Bülten",
+      "email_placeholder": "E-posta adresiniz",
+      "all_rights_reserved": "Tüm hakları saklıdır",
+      "admin": "Yönetici"
+    }
+  }
+}

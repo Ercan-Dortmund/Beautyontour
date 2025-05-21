@@ -1,0 +1,566 @@
+{
+  "de": {
+    "common": {
+      "beautyontour": "Beauty on Tour",
+      "slogan": "Exklusive Reiseerlebnisse & Luxusaufenthalte",
+      "menu": {
+        "home": "Home",
+        "destinations": "Reiseziele",
+        "luxury": "Luxusangebote",
+        "beauty": "Beauty & Wellness",
+        "health": "Gesundheitstourismus",
+        "booking": "Buchung",
+        "contact": "Kontakt",
+        "shop": "Shop"
+      },
+      "buttons": {
+        "bookNow": "Reise buchen",
+        "discover": "Destinationen entdecken",
+        "readMore": "Mehr erfahren",
+        "contact": "Kontakt aufnehmen",
+        "addToCart": "In den Warenkorb",
+        "checkout": "Zur Kasse",
+        "send": "Absenden",
+        "login": "Anmelden",
+        "register": "Registrieren"
+      },
+      "footer": {
+        "rights": "Alle Rechte vorbehalten",
+        "privacy": "Datenschutz",
+        "terms": "AGB",
+        "imprint": "Impressum"
+      }
+    },
+    "home": {
+      "hero": {
+        "title": "Beauty on Tour",
+        "subtitle": "Exklusive Reiseerlebnisse & Luxusaufenthalte",
+        "description": "Entdecken Sie die schönsten Reiseziele der Welt mit maßgeschneiderten Luxusreisen und exklusiven Beauty-Erlebnissen."
+      },
+      "welcome": {
+        "title": "Willkommen bei Beauty on Tour",
+        "subtitle": "Ihr Spezialist für exklusive Reiseerlebnisse und Luxusaufenthalte",
+        "description": "Beauty on Tour verbindet exklusive Reiseerlebnisse mit Luxusaufenthalten und individuellen Beauty-Treatments. Unser Konzept ermöglicht es Ihnen, erstklassige Destinationen zu entdecken und dabei von maßgeschneiderten Services zu profitieren.\n\nMit jahrelanger Erfahrung in der europäischen Reisebranche bieten wir Ihnen Zugang zu den exklusivsten Hotels, Restaurants und Erlebnissen - von luxuriösen Unterkünften in der Ägäis bis zu kulturellen Entdeckungsreisen in Kappadokien.\n\nUnsere Mission ist es, Ihnen unvergessliche Reisemomente zu schaffen, die Ihre höchsten Erwartungen übertreffen."
+      },
+      "destinations": {
+        "title": "Exklusive Reiseziele",
+        "subtitle": "Entdecken Sie unsere handverlesenen Destinationen",
+        "aegean": {
+          "title": "Ägäische Küste",
+          "description": "Luxuriöse Resorts und kristallklares Wasser an der türkischen Riviera."
+        },
+        "cappadocia": {
+          "title": "Kappadokien",
+          "description": "Einzigartige Landschaften und kulturelle Erlebnisse im Herzen der Türkei."
+        },
+        "istanbul": {
+          "title": "Istanbul",
+          "description": "Die pulsierende Metropole zwischen Orient und Okzident mit exklusiven Stadthotels."
+        },
+        "bodrum": {
+          "title": "Bodrum",
+          "description": "Elegante Yachthäfen und erstklassige Resorts an der türkischen Ägäis."
+        }
+      },
+      "luxury": {
+        "title": "Luxusangebote",
+        "subtitle": "Maßgeschneiderte Erlebnisse für anspruchsvolle Reisende",
+        "hotels": {
+          "title": "5-Sterne Hotels",
+          "description": "Handverlesene Luxusunterkünfte mit erstklassigem Service und exklusiver Lage."
+        },
+        "gourmet": {
+          "title": "Gourmet-Erlebnisse",
+          "description": "Reservierungen in den besten Restaurants und private Dining-Erlebnisse."
+        },
+        "transfers": {
+          "title": "Private Transfers",
+          "description": "Luxuriöse Fahrzeuge und persönliche Chauffeure für Ihre Mobilität vor Ort."
+        },
+        "yacht": {
+          "title": "Yacht-Charter",
+          "description": "Exklusive Yachttouren entlang der malerischen Küsten."
+        }
+      },
+      "beauty": {
+        "title": "Beauty & Wellness",
+        "subtitle": "Exklusive Treatments für Ihr Wohlbefinden",
+        "spa": {
+          "title": "Spa-Erlebnisse",
+          "description": "Zugang zu exklusiven Spa-Bereichen in Luxusresorts mit speziellen Treatments."
+        },
+        "mobile": {
+          "title": "Mobile Beauty-Services",
+          "description": "Professionelle Beauty-Behandlungen in Ihrer Unterkunft oder an besonderen Locations."
+        },
+        "wellness": {
+          "title": "Wellness-Pakete",
+          "description": "Maßgeschneiderte Wellness-Programme für Entspannung und Revitalisierung."
+        },
+        "products": {
+          "title": "Exklusive Produkte",
+          "description": "Hochwertige Beauty-Produkte für Ihre persönliche Pflege während der Reise."
+        }
+      },
+      "health": {
+        "title": "Gesundheitstourismus",
+        "subtitle": "Hochwertige medizinische Behandlungen in der Türkei",
+        "dental": {
+          "title": "Zahnbehandlungen",
+          "description": "Erstklassige Zahnbehandlungen von renommierten Spezialisten zu attraktiven Preisen."
+        },
+        "hair": {
+          "title": "Haartransplantation",
+          "description": "Modernste Techniken für natürlich aussehende Ergebnisse durch erfahrene Experten."
+        },
+        "eye": {
+          "title": "Laser Augenoperationen",
+          "description": "Präzise Augenlaserbehandlungen mit neuester Technologie für besseres Sehen."
+        },
+        "aesthetic": {
+          "title": "Ästhetische Chirurgie",
+          "description": "Diskrete und professionelle ästhetische Eingriffe in erstklassigen Kliniken."
+        }
+      },
+      "testimonials": {
+        "title": "Kundenstimmen",
+        "subtitle": "Was unsere Kunden über ihre Erlebnisse sagen",
+        "testimonial1": {
+          "text": "Unsere Reise an die türkische Ägäis war absolut traumhaft. Das handverlesene Resort und die persönliche Betreuung haben unseren Urlaub zu einem unvergesslichen Erlebnis gemacht.",
+          "author": "Familie Müller",
+          "location": "Bodrum, August 2024"
+        },
+        "testimonial2": {
+          "text": "Die Kombination aus Luxushotel und den mobilen Beauty-Services war perfekt. Besonders die Spa-Behandlung mit Blick auf Kappadokiens einzigartige Landschaft war ein Highlight.",
+          "author": "Claudia S.",
+          "location": "Kappadokien, Juni 2024"
+        }
+      },
+      "services": {
+        "title": "Unsere besonderen Dienstleistungen",
+        "subtitle": "Wir kümmern uns um jedes Detail",
+        "complete": {
+          "title": "Komplettbetreuung",
+          "description": "Organisation und Betreuung Ihres gesamten Aufenthalts von Anfang bis Ende."
+        },
+        "transfer": {
+          "title": "Flughafen-Hotel Transfer",
+          "description": "Bequeme und luxuriöse Transfers zwischen Flughafen und Unterkunft."
+        },
+        "personal": {
+          "title": "Persönliche Betreuung",
+          "description": "Individuelle Betreuung bei allen Gesundheits- und Beautyanwendungen."
+        },
+        "interpreter": {
+          "title": "Kostenlose Dolmetscherdienste",
+          "description": "Professionelle Übersetzung bei allen Terminen und Behandlungen."
+        },
+        "support": {
+          "title": "24/7 Erreichbarkeit",
+          "description": "Rund um die Uhr für Sie da bei Fragen und Anliegen."
+        }
+      },
+      "cta": {
+        "title": "Reise anfragen",
+        "subtitle": "Lassen Sie uns Ihre Traumreise planen"
+      }
+    },
+    "contact": {
+      "title": "Kontakt",
+      "subtitle": "Wir freuen uns auf Ihre Nachricht",
+      "form": {
+        "name": "Name",
+        "email": "E-Mail",
+        "phone": "Telefon",
+        "subject": "Betreff",
+        "message": "Nachricht",
+        "submit": "Nachricht senden",
+        "success": "Vielen Dank für Ihre Nachricht. Wir werden uns in Kürze bei Ihnen melden.",
+        "error": "Es ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut."
+      },
+      "info": {
+        "title": "Kontaktinformationen",
+        "address": "Adresse",
+        "phone": "Telefon",
+        "email": "E-Mail",
+        "hours": "Öffnungszeiten"
+      }
+    }
+  },
+  "en": {
+    "common": {
+      "beautyontour": "Beauty on Tour",
+      "slogan": "Exclusive Travel Experiences & Luxury Stays",
+      "menu": {
+        "home": "Home",
+        "destinations": "Destinations",
+        "luxury": "Luxury Offers",
+        "beauty": "Beauty & Wellness",
+        "health": "Health Tourism",
+        "booking": "Booking",
+        "contact": "Contact",
+        "shop": "Shop"
+      },
+      "buttons": {
+        "bookNow": "Book Now",
+        "discover": "Discover Destinations",
+        "readMore": "Read More",
+        "contact": "Contact Us",
+        "addToCart": "Add to Cart",
+        "checkout": "Checkout",
+        "send": "Send",
+        "login": "Login",
+        "register": "Register"
+      },
+      "footer": {
+        "rights": "All Rights Reserved",
+        "privacy": "Privacy Policy",
+        "terms": "Terms & Conditions",
+        "imprint": "Imprint"
+      }
+    },
+    "home": {
+      "hero": {
+        "title": "Beauty on Tour",
+        "subtitle": "Exclusive Travel Experiences & Luxury Stays",
+        "description": "Discover the world's most beautiful destinations with tailor-made luxury trips and exclusive beauty experiences."
+      },
+      "welcome": {
+        "title": "Welcome to Beauty on Tour",
+        "subtitle": "Your specialist for exclusive travel experiences and luxury stays",
+        "description": "Beauty on Tour combines exclusive travel experiences with luxury accommodations and individual beauty treatments. Our concept allows you to discover first-class destinations while benefiting from customized services.\n\nWith years of experience in the European travel industry, we offer you access to the most exclusive hotels, restaurants, and experiences - from luxurious accommodations in the Aegean to cultural discovery tours in Cappadocia.\n\nOur mission is to create unforgettable travel moments that exceed your highest expectations."
+      },
+      "destinations": {
+        "title": "Exclusive Destinations",
+        "subtitle": "Discover our hand-picked destinations",
+        "aegean": {
+          "title": "Aegean Coast",
+          "description": "Luxurious resorts and crystal-clear water on the Turkish Riviera."
+        },
+        "cappadocia": {
+          "title": "Cappadocia",
+          "description": "Unique landscapes and cultural experiences in the heart of Turkey."
+        },
+        "istanbul": {
+          "title": "Istanbul",
+          "description": "The vibrant metropolis between East and West with exclusive city hotels."
+        },
+        "bodrum": {
+          "title": "Bodrum",
+          "description": "Elegant marinas and first-class resorts on the Turkish Aegean."
+        }
+      },
+      "luxury": {
+        "title": "Luxury Offers",
+        "subtitle": "Tailor-made experiences for discerning travelers",
+        "hotels": {
+          "title": "5-Star Hotels",
+          "description": "Hand-picked luxury accommodations with first-class service and exclusive locations."
+        },
+        "gourmet": {
+          "title": "Gourmet Experiences",
+          "description": "Reservations at the best restaurants and private dining experiences."
+        },
+        "transfers": {
+          "title": "Private Transfers",
+          "description": "Luxurious vehicles and personal chauffeurs for your mobility on site."
+        },
+        "yacht": {
+          "title": "Yacht Charter",
+          "description": "Exclusive yacht tours along the picturesque coasts."
+        }
+      },
+      "beauty": {
+        "title": "Beauty & Wellness",
+        "subtitle": "Exclusive treatments for your well-being",
+        "spa": {
+          "title": "Spa Experiences",
+          "description": "Access to exclusive spa areas in luxury resorts with special treatments."
+        },
+        "mobile": {
+          "title": "Mobile Beauty Services",
+          "description": "Professional beauty treatments in your accommodation or at special locations."
+        },
+        "wellness": {
+          "title": "Wellness Packages",
+          "description": "Customized wellness programs for relaxation and revitalization."
+        },
+        "products": {
+          "title": "Exclusive Products",
+          "description": "High-quality beauty products for your personal care during your trip."
+        }
+      },
+      "health": {
+        "title": "Health Tourism",
+        "subtitle": "High-quality medical treatments in Turkey",
+        "dental": {
+          "title": "Dental Treatments",
+          "description": "First-class dental treatments by renowned specialists at attractive prices."
+        },
+        "hair": {
+          "title": "Hair Transplantation",
+          "description": "State-of-the-art techniques for natural-looking results by experienced experts."
+        },
+        "eye": {
+          "title": "Laser Eye Surgery",
+          "description": "Precise laser eye treatments with the latest technology for better vision."
+        },
+        "aesthetic": {
+          "title": "Aesthetic Surgery",
+          "description": "Discreet and professional aesthetic procedures in first-class clinics."
+        }
+      },
+      "testimonials": {
+        "title": "Testimonials",
+        "subtitle": "What our customers say about their experiences",
+        "testimonial1": {
+          "text": "Our trip to the Turkish Aegean was absolutely fantastic. The hand-picked resort and personal support made our vacation an unforgettable experience.",
+          "author": "Miller Family",
+          "location": "Bodrum, August 2024"
+        },
+        "testimonial2": {
+          "text": "The combination of luxury hotel and mobile beauty services was perfect. Especially the spa treatment with a view of Cappadocia's unique landscape was a highlight.",
+          "author": "Claudia S.",
+          "location": "Cappadocia, June 2024"
+        }
+      },
+      "services": {
+        "title": "Our Special Services",
+        "subtitle": "We take care of every detail",
+        "complete": {
+          "title": "Complete Support",
+          "description": "Organization and support of your entire stay from beginning to end."
+        },
+        "transfer": {
+          "title": "Airport-Hotel Transfer",
+          "description": "Comfortable and luxurious transfers between airport and accommodation."
+        },
+        "personal": {
+          "title": "Personal Support",
+          "description": "Individual support for all health and beauty applications."
+        },
+        "interpreter": {
+          "title": "Free Interpreter Services",
+          "description": "Professional translation at all appointments and treatments."
+        },
+        "support": {
+          "title": "24/7 Availability",
+          "description": "Around the clock support for your questions and concerns."
+        }
+      },
+      "cta": {
+        "title": "Request a Trip",
+        "subtitle": "Let us plan your dream journey"
+      }
+    },
+    "contact": {
+      "title": "Contact",
+      "subtitle": "We look forward to your message",
+      "form": {
+        "name": "Name",
+        "email": "Email",
+        "phone": "Phone",
+        "subject": "Subject",
+        "message": "Message",
+        "submit": "Send Message",
+        "success": "Thank you for your message. We will get back to you shortly.",
+        "error": "An error occurred. Please try again later."
+      },
+      "info": {
+        "title": "Contact Information",
+        "address": "Address",
+        "phone": "Phone",
+        "email": "Email",
+        "hours": "Opening Hours"
+      }
+    }
+  },
+  "tr": {
+    "common": {
+      "beautyontour": "Beauty on Tour",
+      "slogan": "Özel Seyahat Deneyimleri & Lüks Konaklamalar",
+      "menu": {
+        "home": "Ana Sayfa",
+        "destinations": "Destinasyonlar",
+        "luxury": "Lüks Teklifler",
+        "beauty": "Güzellik & Sağlık",
+        "health": "Sağlık Turizmi",
+        "booking": "Rezervasyon",
+        "contact": "İletişim",
+        "shop": "Mağaza"
+      },
+      "buttons": {
+        "bookNow": "Hemen Rezervasyon Yap",
+        "discover": "Destinasyonları Keşfet",
+        "readMore": "Daha Fazla",
+        "contact": "İletişime Geç",
+        "addToCart": "Sepete Ekle",
+        "checkout": "Ödeme",
+        "send": "Gönder",
+        "login": "Giriş",
+        "register": "Kayıt Ol"
+      },
+      "footer": {
+        "rights": "Tüm Hakları Saklıdır",
+        "privacy": "Gizlilik Politikası",
+        "terms": "Kullanım Koşulları",
+        "imprint": "Künye"
+      }
+    },
+    "home": {
+      "hero": {
+        "title": "Beauty on Tour",
+        "subtitle": "Özel Seyahat Deneyimleri & Lüks Konaklamalar",
+        "description": "Dünyanın en güzel destinasyonlarını özel hazırlanmış lüks seyahatler ve özel güzellik deneyimleriyle keşfedin."
+      },
+      "welcome": {
+        "title": "Beauty on Tour'a Hoş Geldiniz",
+        "subtitle": "Özel seyahat deneyimleri ve lüks konaklamalar için uzmanınız",
+        "description": "Beauty on Tour, özel seyahat deneyimlerini lüks konaklama ve kişisel güzellik tedavileriyle birleştirir. Konseptimiz, birinci sınıf destinasyonları keşfederken özel hizmetlerden yararlanmanızı sağlar.\n\nAvrupa seyahat sektöründeki yıllara dayanan deneyimimizle, en özel otellere, restoranlara ve deneyimlere erişim sunuyoruz - Ege'deki lüks konaklama tesislerinden Kapadokya'daki kültürel keşif turlarına kadar.\n\nMisyonumuz, en yüksek beklentilerinizi aşan unutulmaz seyahat anları yaratmaktır."
+      },
+      "destinations": {
+        "title": "Özel Destinasyonlar",
+        "subtitle": "Özenle seçilmiş destinasyonlarımızı keşfedin",
+        "aegean": {
+          "title": "Ege Kıyısı",
+          "description": "Türk Rivierası'nda lüks tatil köyleri ve kristal berraklığında sular."
+        },
+        "cappadocia": {
+          "title": "Kapadokya",
+          "description": "Türkiye'nin kalbinde eşsiz manzaralar ve kültürel deneyimler."
+        },
+        "istanbul": {
+          "title": "İstanbul",
+          "description": "Doğu ile Batı arasındaki canlı metropol ve özel şehir otelleri."
+        },
+        "bodrum": {
+          "title": "Bodrum",
+          "description": "Türk Ege'sinde zarif marinalar ve birinci sınıf tatil köyleri."
+        }
+      },
+      "luxury": {
+        "title": "Lüks Teklifler",
+        "subtitle": "Seçkin gezginler için özel hazırlanmış deneyimler",
+        "hotels": {
+          "title": "5 Yıldızlı Oteller",
+          "description": "Birinci sınıf hizmet ve özel konumlarla özenle seçilmiş lüks konaklama tesisleri."
+        },
+        "gourmet": {
+          "title": "Gurme Deneyimleri",
+          "description": "En iyi restoranlarda rezervasyonlar ve özel yemek deneyimleri."
+        },
+        "transfers": {
+          "title": "Özel Transferler",
+          "description": "Yerinde hareketliliğiniz için lüks araçlar ve kişisel şoförler."
+        },
+        "yacht": {
+          "title": "Yat Kiralama",
+          "description": "Pitoresk kıyılar boyunca özel yat turları."
+        }
+      },
+      "beauty": {
+        "title": "Güzellik & Sağlık",
+        "subtitle": "Sağlığınız için özel tedaviler",
+        "spa": {
+          "title": "Spa Deneyimleri",
+          "description": "Lüks tatil köylerinde özel tedavilerle özel spa alanlarına erişim."
+        },
+        "mobile": {
+          "title": "Mobil Güzellik Hizmetleri",
+          "description": "Konaklama yerinizde veya özel mekanlarda profesyonel güzellik tedavileri."
+        },
+        "wellness": {
+          "title": "Sağlık Paketleri",
+          "description": "Rahatlama ve canlanma için özel hazırlanmış sağlık programları."
+        },
+        "products": {
+          "title": "Özel Ürünler",
+          "description": "Seyahatiniz sırasında kişisel bakımınız için yüksek kaliteli güzellik ürünleri."
+        }
+      },
+      "health": {
+        "title": "Sağlık Turizmi",
+        "subtitle": "Türkiye'de yüksek kaliteli tıbbi tedaviler",
+        "dental": {
+          "title": "Diş Tedavileri",
+          "description": "Uygun fiyatlarla tanınmış uzmanlar tarafından birinci sınıf diş tedavileri."
+        },
+        "hair": {
+          "title": "Saç Ekimi",
+          "description": "Deneyimli uzmanlar tarafından doğal görünümlü sonuçlar için en son teknolojiler."
+        },
+        "eye": {
+          "title": "Lazer Göz Ameliyatı",
+          "description": "Daha iyi görüş için en son teknoloji ile hassas lazer göz tedavileri."
+        },
+        "aesthetic": {
+          "title": "Estetik Cerrahi",
+          "description": "Birinci sınıf kliniklerde diskret ve profesyonel estetik prosedürler."
+        }
+      },
+      "testimonials": {
+        "title": "Müşteri Yorumları",
+        "subtitle": "Müşterilerimizin deneyimleri hakkında söyledikleri",
+        "testimonial1": {
+          "text": "Türk Ege'sine yaptığımız gezi kesinlikle harikaydı. Özenle seçilmiş tatil köyü ve kişisel destek, tatilimizi unutulmaz bir deneyim haline getirdi.",
+          "author": "Miller Ailesi",
+          "location": "Bodrum, Ağustos 2024"
+        },
+        "testimonial2": {
+          "text": "Lüks otel ve mobil güzellik hizmetlerinin kombinasyonu mükemmeldi. Özellikle Kapadokya'nın eşsiz manzarasına sahip spa tedavisi bir vurgu noktasıydı.",
+          "author": "Claudia S.",
+          "location": "Kapadokya, Haziran 2024"
+        }
+      },
+      "services": {
+        "title": "Özel Hizmetlerimiz",
+        "subtitle": "Her detayla ilgileniyoruz",
+        "complete": {
+          "title": "Tam Destek",
+          "description": "Başından sonuna kadar tüm konaklamanızın organizasyonu ve desteği."
+        },
+        "transfer": {
+          "title": "Havaalanı-Otel Transferi",
+          "description": "Havaalanı ve konaklama yeri arasında konforlu ve lüks transferler."
+        },
+        "personal": {
+          "title": "Kişisel Destek",
+          "description": "Tüm sağlık ve güzellik uygulamaları için bireysel destek."
+        },
+        "interpreter": {
+          "title": "Ücretsiz Tercüman Hizmetleri",
+          "description": "Tüm randevu ve tedavilerde profesyonel çeviri."
+        },
+        "support": {
+          "title": "7/24 Erişilebilirlik",
+          "description": "Sorularınız ve endişeleriniz için günün her saati destek."
+        }
+      },
+      "cta": {
+        "title": "Seyahat Talebi",
+        "subtitle": "Rüya yolculuğunuzu planlayalım"
+      }
+    },
+    "contact": {
+      "title": "İletişim",
+      "subtitle": "Mesajınızı bekliyoruz",
+      "form": {
+        "name": "İsim",
+        "email": "E-posta",
+        "phone": "Telefon",
+        "subject": "Konu",
+        "message": "Mesaj",
+        "submit": "Mesaj Gönder",
+        "success": "Mesajınız için teşekkür ederiz. En kısa sürede size geri döneceğiz.",
+        "error": "Bir hata oluştu. Lütfen daha sonra tekrar deneyin."
+      },
+      "info": {
+        "title": "İletişim Bilgileri",
+        "address": "Adres",
+        "phone": "Telefon",
+        "email": "E-posta",
+        "hours": "Çalışma Saatleri"
+      }
+    }
+  }
+}
